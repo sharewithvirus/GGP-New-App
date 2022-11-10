@@ -1,0 +1,857 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "assets/fonts/Cookie-Regular.ttf",
+      "sha1": "1a76128c4c912e5fad18807f983c03b69c57a371"
+    },
+    {
+      "path": "assets/fonts/Cookies.ttf",
+      "sha1": "6c7d7c6f79a6e5b36796d34462eedbbdf971d87a"
+    },
+    {
+      "path": "assets/fonts/Entypo.ttf",
+      "sha1": "47870a67dd50871765f799caa97da87219ee47c5"
+    },
+    {
+      "path": "assets/fonts/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "assets/fonts/Feather.ttf",
+      "sha1": "526e03ea68a61c4a67a70b01d7b345eab349767d"
+    },
+    {
+      "path": "assets/fonts/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Brands.ttf",
+      "sha1": "66c86edfd13e63e0e981ce853335c28bc2d20cec"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Regular.ttf",
+      "sha1": "00f569f7d8ac2497a43b25dc4d3b32213bcea31b"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Solid.ttf",
+      "sha1": "ff8f37dfad105796bd924d0db0d37a4ff252618c"
+    },
+    {
+      "path": "assets/fonts/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "assets/fonts/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "assets/fonts/Ionicons.ttf",
+      "sha1": "b5281fbfa43129abc3e412dd938cfcf0b77de999"
+    },
+    {
+      "path": "assets/fonts/MaterialCommunityIcons.ttf",
+      "sha1": "80a431d6d49861d655009e9491409282d2559591"
+    },
+    {
+      "path": "assets/fonts/MaterialIcons.ttf",
+      "sha1": "1943803d652750c8ec60415f1e57401c70e72d25"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Black.ttf",
+      "sha1": "96d03479269d1ba7a3e38f4b64ff87ead267c998"
+    },
+    {
+      "path": "assets/fonts/Montserrat-BlackItalic.ttf",
+      "sha1": "6e84efcb6bf01c47102d6e9f0dbe5958e74c9f20"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "3a54407a2b26ff4718708a4726b10cb070d16534"
+    },
+    {
+      "path": "assets/fonts/Montserrat-BoldItalic.ttf",
+      "sha1": "6acf078ad5e1b77e6d68b8ff0cde39d81b9f057c"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "4b5c27dcf59df165606efa247190c0bfa3c02ff0"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBoldItalic.ttf",
+      "sha1": "28423e53b60316c09f468055ca8c1d27c06ab45b"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "fe3c849af6231af6c5c43d1045f2011bf683f317"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraLightItalic.ttf",
+      "sha1": "40d3231d668844dab24536fa0c380bdc2311a992"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Italic.ttf",
+      "sha1": "798c701450f6bc08217f73c1ac569100cddc2947"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Light.ttf",
+      "sha1": "83879cec4c934d446eca63aa5cfedcebfd60d610"
+    },
+    {
+      "path": "assets/fonts/Montserrat-LightItalic.ttf",
+      "sha1": "659632ad8a33d96e6a00319d7b0c020e9cc6cc5b"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "65a98832079c4d2c67f3acc4f4ce2de630fe6cb0"
+    },
+    {
+      "path": "assets/fonts/Montserrat-MediumItalic.ttf",
+      "sha1": "ceadac9926836d5fc0ee14f94567f0ea25979fa2"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "d25b35242deb1c6ff888b8162ca2aacc356d3899"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "f829de4c176fb2ccf5e33360920f48de6794434e"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBoldItalic.ttf",
+      "sha1": "3c2759411b32ad6779aba08e4c09ed1b3c0bc4d4"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Thin.ttf",
+      "sha1": "1d00ff2f5bc9331aa6e75b5a82dd698976615dc4"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ThinItalic.ttf",
+      "sha1": "ae19fb168e043e6408692c4bc50dd0aab76fdc22"
+    },
+    {
+      "path": "assets/fonts/Octicons.ttf",
+      "sha1": "28875874413503bcc0810ea2a44dc1b8312c665a"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "1e3704ee48b5ff7e582488ead87b05249f14dc1c"
+    },
+    {
+      "path": "assets/fonts/OpenSans-BoldItalic.ttf",
+      "sha1": "72068cc905085ca406e6391cc5021ac043689ade"
+    },
+    {
+      "path": "assets/fonts/OpenSans-ExtraBold.ttf",
+      "sha1": "5acb1de2513aca9ce4fcf5d1e1e49aad86f1888c"
+    },
+    {
+      "path": "assets/fonts/OpenSans-ExtraBoldItalic.ttf",
+      "sha1": "261b15f4f19092ec5e711a4f6c030fcc1431efe4"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Italic.ttf",
+      "sha1": "b8d9f5ceb1e6b3a716dab0bdd09061bbc349b41e"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Light.ttf",
+      "sha1": "bf0d133b628259eca01049d30fa6316094d00bcf"
+    },
+    {
+      "path": "assets/fonts/OpenSans-LightItalic.ttf",
+      "sha1": "f8b6e01898801a17b9bf11f6190347cd917c440d"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "babe8dce93a3e48b6c3c79720a0c048e88dd1fe7"
+    },
+    {
+      "path": "assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "e256f8391718ef61f253dfb4e95bbeb3c5857afc"
+    },
+    {
+      "path": "assets/fonts/OpenSans-SemiBoldItalic.ttf",
+      "sha1": "b59e91cb19bc660ffbe3bd12501b4781196a8312"
+    },
+    {
+      "path": "assets/fonts/RedHatText-Bold.ttf",
+      "sha1": "6fe2bee71af5a807be12c82663ca8ae050ba760e"
+    },
+    {
+      "path": "assets/fonts/RedHatText-BoldItalic.ttf",
+      "sha1": "52b8c484234501d888880d8931ca019f61478478"
+    },
+    {
+      "path": "assets/fonts/RedHatText-Italic-VariableFont_wght.ttf",
+      "sha1": "037c9f2a2774e61a38da7f17a853bf524f291c27"
+    },
+    {
+      "path": "assets/fonts/RedHatText-Italic.ttf",
+      "sha1": "82d27b040bdda5ba1a67d07f271d87fac650904c"
+    },
+    {
+      "path": "assets/fonts/RedHatText-Light.ttf",
+      "sha1": "b4f1fd32fa926bc1547c7e1e055ed76102dd8162"
+    },
+    {
+      "path": "assets/fonts/RedHatText-LightItalic.ttf",
+      "sha1": "eb20a3deec68cacf31131877a780d361f11c6691"
+    },
+    {
+      "path": "assets/fonts/RedHatText-Medium.ttf",
+      "sha1": "4491518a33204688edf2738a163d2719b52c3ce4"
+    },
+    {
+      "path": "assets/fonts/RedHatText-MediumItalic.ttf",
+      "sha1": "0c1d846e68abb2a6044c07a7957bb72015a6cc28"
+    },
+    {
+      "path": "assets/fonts/RedHatText-Regular.ttf",
+      "sha1": "af2872a4bd41b18cb9ab91665adbda74f73cdb56"
+    },
+    {
+      "path": "assets/fonts/RedHatText-SemiBold.ttf",
+      "sha1": "12b53b6dde4eda7e2f33fe781ffdb8b5309f49f4"
+    },
+    {
+      "path": "assets/fonts/RedHatText-SemiBoldItalic.ttf",
+      "sha1": "a7c3512e92ebe0a6af7eea76e40a9ad8c7190db1"
+    },
+    {
+      "path": "assets/fonts/RedHatText-VariableFont_wght.ttf",
+      "sha1": "8f628d12d33515ca3cdab57f2080fd8760c184c0"
+    },
+    {
+      "path": "assets/fonts/SimpleLineIcons.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "assets/fonts/Zocial.ttf",
+      "sha1": "0bda59c7bcd3d3927de047e091875a4428bfd1ab"
+    },
+    {
+      "path": "src/images/svg/Back.svg",
+      "sha1": "1861163c65a50a16ac96012749c922a1afc1e8ce"
+    },
+    {
+      "path": "src/images/svg/Home1.svg",
+      "sha1": "3440e1988df21f0319f7ec20a1ae8f14d86b7665"
+    },
+    {
+      "path": "src/images/svg/Moneyandpiggy.svg",
+      "sha1": "d413bcb095055c547a79d06f4955cd9658c8e5b9"
+    },
+    {
+      "path": "src/images/svg/Vault.svg",
+      "sha1": "1969f33e121d9699da0ba5e260d42ac882b1bc23"
+    },
+    {
+      "path": "src/images/svg/achievement.svg",
+      "sha1": "f216aeb467d457b7a33fb9efe24114bfaf7c1c3a"
+    },
+    {
+      "path": "src/images/svg/achievement1.svg",
+      "sha1": "f216aeb467d457b7a33fb9efe24114bfaf7c1c3a"
+    },
+    {
+      "path": "src/images/svg/add.svg",
+      "sha1": "bfe5e8096c704139a34772744fb71d8ab473b1a4"
+    },
+    {
+      "path": "src/images/svg/approve.svg",
+      "sha1": "e6c5e08183063f7913429c81d4952b3d7c07e2f3"
+    },
+    {
+      "path": "src/images/svg/award.svg",
+      "sha1": "aeeda5cde23d198a96502ffbb090496f45281565"
+    },
+    {
+      "path": "src/images/svg/blessing.svg",
+      "sha1": "66d53b919de85adedde99ea73879351f0ec60db6"
+    },
+    {
+      "path": "src/images/svg/blessingCode.svg",
+      "sha1": "15191e29c678a8cbe66ce96a88d798f7607706eb"
+    },
+    {
+      "path": "src/images/svg/bonusTeady.svg",
+      "sha1": "bc54a3e8fe766d82db0e681f708396aecc197553"
+    },
+    {
+      "path": "src/images/svg/boy.svg",
+      "sha1": "1b627232aef9dd59b804ed1e979cf2eca676f288"
+    },
+    {
+      "path": "src/images/svg/brush.svg",
+      "sha1": "270918112e9cb9ffb79e4a9e00c4eeca72e155cb"
+    },
+    {
+      "path": "src/images/svg/calendar.svg",
+      "sha1": "c5578ee7e0ce58158bdaac0a4faf07f7dbceb997"
+    },
+    {
+      "path": "src/images/svg/cancel.svg",
+      "sha1": "fd3f295d1a484ea3121fb7a2df3decf9e0df3cad"
+    },
+    {
+      "path": "src/images/svg/cardBoy.svg",
+      "sha1": "c84ec032182f1443355a50f8e94a393ae6999afb"
+    },
+    {
+      "path": "src/images/svg/cart.svg",
+      "sha1": "c1edcc22cedaa06254e5cc78189ae8bdda4dde92"
+    },
+    {
+      "path": "src/images/svg/charity.svg",
+      "sha1": "e1ef53a73253e94e28fc5f02a8e8451482eb7b5b"
+    },
+    {
+      "path": "src/images/svg/check.svg",
+      "sha1": "375cf071ac60ff1914d24507f196e75eed325ada"
+    },
+    {
+      "path": "src/images/svg/circleAdd.svg",
+      "sha1": "529ccc7454949ecd74ae5401165e2a7b62438c30"
+    },
+    {
+      "path": "src/images/svg/circleMinus.svg",
+      "sha1": "5baef753e9b153794fd3e1a9a0f4489f92eae7af"
+    },
+    {
+      "path": "src/images/svg/circlePlay.svg",
+      "sha1": "1752d2d2a2697bb20819f46a06ba48151b4ee872"
+    },
+    {
+      "path": "src/images/svg/circlePlus.svg",
+      "sha1": "fd45100ac6ed07b6a066ff591211b7009e2de71c"
+    },
+    {
+      "path": "src/images/svg/clicked.svg",
+      "sha1": "1ec780165f35e59090c1a710396af54cf1530b7a"
+    },
+    {
+      "path": "src/images/svg/clock.svg",
+      "sha1": "a1492909b3cbbde771f7da6d8253bae297e7cd06"
+    },
+    {
+      "path": "src/images/svg/close.svg",
+      "sha1": "d2955ec4484879c309a57b4b798d378b3a211102"
+    },
+    {
+      "path": "src/images/svg/coin.svg",
+      "sha1": "44d3eea6f8dfdf659f58be9490f445db0d8fbc0e"
+    },
+    {
+      "path": "src/images/svg/corner.svg",
+      "sha1": "ea8e7e2da32172bb48190e1cd1acdcd801dcc2aa"
+    },
+    {
+      "path": "src/images/svg/dailyMission.svg",
+      "sha1": "a24e364cd9512c5e007b62929204a0dd86c961e4"
+    },
+    {
+      "path": "src/images/svg/dashBoardMission.svg",
+      "sha1": "6bac321e912fd17ecb057f16d518a8ad100817cc"
+    },
+    {
+      "path": "src/images/svg/dashboardBlessing.svg",
+      "sha1": "d1daf35312750ef7070edab17f94682a6b7afac0"
+    },
+    {
+      "path": "src/images/svg/dashboardCoin.svg",
+      "sha1": "d4c34dba5e1c8c580c613553fc5867f9f358e05f"
+    },
+    {
+      "path": "src/images/svg/dashboardMissions.svg",
+      "sha1": "ec09a5eb23f9a149dedf072af61c6b4ccde35b89"
+    },
+    {
+      "path": "src/images/svg/dashboardShare.svg",
+      "sha1": "8458e8bdbe24c37fd77413f85618baa3e76c4b50"
+    },
+    {
+      "path": "src/images/svg/dashboardStory.svg",
+      "sha1": "373b070b3415192894861c591a0ade7642995636"
+    },
+    {
+      "path": "src/images/svg/dashboardVideo.svg",
+      "sha1": "ca28c3fc5d9b59b3db96cf78b7b704191fd8a923"
+    },
+    {
+      "path": "src/images/svg/dashboardVideos.svg",
+      "sha1": "d8cbb7302cfd1ea211f314082cfd7194fe036a52"
+    },
+    {
+      "path": "src/images/svg/discount.svg",
+      "sha1": "6c30fe21e440b1373c35cafbad81459b990be9ab"
+    },
+    {
+      "path": "src/images/svg/discountW.svg",
+      "sha1": "f33bc67577a15764085d1e4fae1dd8ff224c0e5c"
+    },
+    {
+      "path": "src/images/svg/dollar.svg",
+      "sha1": "932d22e74c5f060e46de03159dbbbd97c6baf793"
+    },
+    {
+      "path": "src/images/svg/down.svg",
+      "sha1": "7d58276050d5c2db97c239b07ac9ccdeaa215e14"
+    },
+    {
+      "path": "src/images/svg/downArrow.svg",
+      "sha1": "268c5c9c634dc9df881989b2e50100acd86872e2"
+    },
+    {
+      "path": "src/images/svg/dropDown.svg",
+      "sha1": "85b814d8fd2ea7025d2dd5f7d0e845583a56d965"
+    },
+    {
+      "path": "src/images/svg/enterPin.svg",
+      "sha1": "e50b9bbab7c39a8f664c851fdc08b57bfdaedec7"
+    },
+    {
+      "path": "src/images/svg/fb.svg",
+      "sha1": "d5ae6f15772fdacd54ccafcfa7f4a0a96a7f6c3b"
+    },
+    {
+      "path": "src/images/svg/flag.svg",
+      "sha1": "b995cfc0a3b35ef20dfdb1188a2d3c3c3acef828"
+    },
+    {
+      "path": "src/images/svg/give.svg",
+      "sha1": "cc5e9479b9c8b9eddf0836afa8faecf1579c8c9d"
+    },
+    {
+      "path": "src/images/svg/goPremium.svg",
+      "sha1": "3a97e735de7d504b983c9222b4c034fe5177a47c"
+    },
+    {
+      "path": "src/images/svg/goals.svg",
+      "sha1": "691b24e1d2c1c9acb260c515ff510648257c453e"
+    },
+    {
+      "path": "src/images/svg/headLogo.svg",
+      "sha1": "3fbacb43904769e51167ddff40fa06cef2063726"
+    },
+    {
+      "path": "src/images/svg/heart.svg",
+      "sha1": "0448c58b3874df8ffa5434124b6d9c37ebac8003"
+    },
+    {
+      "path": "src/images/svg/home.svg",
+      "sha1": "cdde29b074f8d2b0dd2761ce45a9bdefbaccfef7"
+    },
+    {
+      "path": "src/images/svg/homeBtn.svg",
+      "sha1": "15064bbaef6a6d985b7b1335cf35cee0d913beee"
+    },
+    {
+      "path": "src/images/svg/info.svg",
+      "sha1": "81f6946fdc7c0ada11d57fb321b498f2758f43d0"
+    },
+    {
+      "path": "src/images/svg/insta.svg",
+      "sha1": "707344b4750a08c364b0bdec829d85dc26502fd8"
+    },
+    {
+      "path": "src/images/svg/investment.svg",
+      "sha1": "99d628a232f54b591c6ca1dceafab3d764ef1d2d"
+    },
+    {
+      "path": "src/images/svg/kid.svg",
+      "sha1": "3379daffb57856876f3301be73c00c5532220ddc"
+    },
+    {
+      "path": "src/images/svg/kidPin.svg",
+      "sha1": "3b981c5557add8bdfca3dc282f55d74fd2e5bf93"
+    },
+    {
+      "path": "src/images/svg/logo.svg",
+      "sha1": "fc6dfa6b7a8a07e1d1cfa1097d078fed9d06bacd"
+    },
+    {
+      "path": "src/images/svg/menu.svg",
+      "sha1": "48ece9ff49e3084be43e0d75bee0a6bc18a77534"
+    },
+    {
+      "path": "src/images/svg/minus.svg",
+      "sha1": "6d634eb96e2f4829ce9bdec8d6a32755fdf56406"
+    },
+    {
+      "path": "src/images/svg/mission.svg",
+      "sha1": "700ef4bc942268a07b0745a44ba88be70ec0b1d1"
+    },
+    {
+      "path": "src/images/svg/money.svg",
+      "sha1": "838de8b4b8908413bc26d284d0b53857086b77e4"
+    },
+    {
+      "path": "src/images/svg/msg.svg",
+      "sha1": "7428608c395849700ef8d40731d98a360a912704"
+    },
+    {
+      "path": "src/images/svg/network.svg",
+      "sha1": "639374bd093623bc75ec0a141697cea4efebb957"
+    },
+    {
+      "path": "src/images/svg/parentsvg/add.svg",
+      "sha1": "bfe5e8096c704139a34772744fb71d8ab473b1a4"
+    },
+    {
+      "path": "src/images/svg/parentsvg/approve.svg",
+      "sha1": "e6c5e08183063f7913429c81d4952b3d7c07e2f3"
+    },
+    {
+      "path": "src/images/svg/parentsvg/back.svg",
+      "sha1": "65b2ec4f46de7e068ac9992784e01ea07e2fa84e"
+    },
+    {
+      "path": "src/images/svg/parentsvg/brush.svg",
+      "sha1": "270918112e9cb9ffb79e4a9e00c4eeca72e155cb"
+    },
+    {
+      "path": "src/images/svg/parentsvg/calendar.svg",
+      "sha1": "c5578ee7e0ce58158bdaac0a4faf07f7dbceb997"
+    },
+    {
+      "path": "src/images/svg/parentsvg/cancel.svg",
+      "sha1": "fd3f295d1a484ea3121fb7a2df3decf9e0df3cad"
+    },
+    {
+      "path": "src/images/svg/parentsvg/cardBoy.svg",
+      "sha1": "c84ec032182f1443355a50f8e94a393ae6999afb"
+    },
+    {
+      "path": "src/images/svg/parentsvg/cart.svg",
+      "sha1": "25925058c20632d95e18f7c2aca8f1b520cc7130"
+    },
+    {
+      "path": "src/images/svg/parentsvg/charity.svg",
+      "sha1": "e1ef53a73253e94e28fc5f02a8e8451482eb7b5b"
+    },
+    {
+      "path": "src/images/svg/parentsvg/check.svg",
+      "sha1": "18a23e2b7392da1d9ba0033673befa5692b1e9e8"
+    },
+    {
+      "path": "src/images/svg/parentsvg/circleAdd.svg",
+      "sha1": "529ccc7454949ecd74ae5401165e2a7b62438c30"
+    },
+    {
+      "path": "src/images/svg/parentsvg/circleMinus.svg",
+      "sha1": "5baef753e9b153794fd3e1a9a0f4489f92eae7af"
+    },
+    {
+      "path": "src/images/svg/parentsvg/circlePlay.svg",
+      "sha1": "1752d2d2a2697bb20819f46a06ba48151b4ee872"
+    },
+    {
+      "path": "src/images/svg/parentsvg/circlePlus.svg",
+      "sha1": "fd45100ac6ed07b6a066ff591211b7009e2de71c"
+    },
+    {
+      "path": "src/images/svg/parentsvg/clicked.svg",
+      "sha1": "1ec780165f35e59090c1a710396af54cf1530b7a"
+    },
+    {
+      "path": "src/images/svg/parentsvg/corner.svg",
+      "sha1": "ea8e7e2da32172bb48190e1cd1acdcd801dcc2aa"
+    },
+    {
+      "path": "src/images/svg/parentsvg/dashboardMission.svg",
+      "sha1": "ec09a5eb23f9a149dedf072af61c6b4ccde35b89"
+    },
+    {
+      "path": "src/images/svg/parentsvg/dashboardVideo.svg",
+      "sha1": "d8cbb7302cfd1ea211f314082cfd7194fe036a52"
+    },
+    {
+      "path": "src/images/svg/parentsvg/discount.svg",
+      "sha1": "6c30fe21e440b1373c35cafbad81459b990be9ab"
+    },
+    {
+      "path": "src/images/svg/parentsvg/discountW.svg",
+      "sha1": "f33bc67577a15764085d1e4fae1dd8ff224c0e5c"
+    },
+    {
+      "path": "src/images/svg/parentsvg/dollar.svg",
+      "sha1": "932d22e74c5f060e46de03159dbbbd97c6baf793"
+    },
+    {
+      "path": "src/images/svg/parentsvg/down.svg",
+      "sha1": "7d58276050d5c2db97c239b07ac9ccdeaa215e14"
+    },
+    {
+      "path": "src/images/svg/parentsvg/drawerCall.svg",
+      "sha1": "066bf6e50e107cd7947d81789e7e121c6c6582fa"
+    },
+    {
+      "path": "src/images/svg/parentsvg/drawerSettings.svg",
+      "sha1": "e13af08f0306188e1276390b1333fce0dbade2e2"
+    },
+    {
+      "path": "src/images/svg/parentsvg/dropDown.svg",
+      "sha1": "85b814d8fd2ea7025d2dd5f7d0e845583a56d965"
+    },
+    {
+      "path": "src/images/svg/parentsvg/fb.svg",
+      "sha1": "d5ae6f15772fdacd54ccafcfa7f4a0a96a7f6c3b"
+    },
+    {
+      "path": "src/images/svg/parentsvg/flag.svg",
+      "sha1": "b995cfc0a3b35ef20dfdb1188a2d3c3c3acef828"
+    },
+    {
+      "path": "src/images/svg/parentsvg/goPremium.svg",
+      "sha1": "3a97e735de7d504b983c9222b4c034fe5177a47c"
+    },
+    {
+      "path": "src/images/svg/parentsvg/goals.svg",
+      "sha1": "0657b520328d594a7274e94dc29f8196769c83ee"
+    },
+    {
+      "path": "src/images/svg/parentsvg/home.svg",
+      "sha1": "15064bbaef6a6d985b7b1335cf35cee0d913beee"
+    },
+    {
+      "path": "src/images/svg/parentsvg/info.svg",
+      "sha1": "81f6946fdc7c0ada11d57fb321b498f2758f43d0"
+    },
+    {
+      "path": "src/images/svg/parentsvg/insta.svg",
+      "sha1": "707344b4750a08c364b0bdec829d85dc26502fd8"
+    },
+    {
+      "path": "src/images/svg/parentsvg/investment.svg",
+      "sha1": "99d628a232f54b591c6ca1dceafab3d764ef1d2d"
+    },
+    {
+      "path": "src/images/svg/parentsvg/kid.svg",
+      "sha1": "3379daffb57856876f3301be73c00c5532220ddc"
+    },
+    {
+      "path": "src/images/svg/parentsvg/lock.svg",
+      "sha1": "78b93ebfd4df8b14fe570360ae8d3fc37ef6d2e4"
+    },
+    {
+      "path": "src/images/svg/parentsvg/logo.svg",
+      "sha1": "fc6dfa6b7a8a07e1d1cfa1097d078fed9d06bacd"
+    },
+    {
+      "path": "src/images/svg/parentsvg/minus.svg",
+      "sha1": "6d634eb96e2f4829ce9bdec8d6a32755fdf56406"
+    },
+    {
+      "path": "src/images/svg/parentsvg/msg.svg",
+      "sha1": "7428608c395849700ef8d40731d98a360a912704"
+    },
+    {
+      "path": "src/images/svg/parentsvg/personal.svg",
+      "sha1": "15f37ffe0e7368088e7cb6464e7d5ad8298b8db6"
+    },
+    {
+      "path": "src/images/svg/parentsvg/plus.svg",
+      "sha1": "59cd26220dd7c294d590aa394701f6084a942705"
+    },
+    {
+      "path": "src/images/svg/parentsvg/remove.svg",
+      "sha1": "7024c24c6fe28f7c18cd35df450227d1de6d61ad"
+    },
+    {
+      "path": "src/images/svg/parentsvg/report.svg",
+      "sha1": "9539826ae2ea783a69fa4848829ab52ef05a2e0b"
+    },
+    {
+      "path": "src/images/svg/parentsvg/right.svg",
+      "sha1": "4d88abc0d225476c8ed57cbfc284a129af6946ed"
+    },
+    {
+      "path": "src/images/svg/parentsvg/screenTime.svg",
+      "sha1": "f755fbde3ca5a08f926685ce65419dcc4a7772c7"
+    },
+    {
+      "path": "src/images/svg/parentsvg/settings.svg",
+      "sha1": "705a21b45de01b93f8a6ad0cdde7af6453d13b11"
+    },
+    {
+      "path": "src/images/svg/parentsvg/shop.svg",
+      "sha1": "db27e83c1ac14e84fd1de042953a4aabf58f48e9"
+    },
+    {
+      "path": "src/images/svg/parentsvg/story.svg",
+      "sha1": "b938a1e20dc013a1f7c34c7a5c9a21881e9f3d34"
+    },
+    {
+      "path": "src/images/svg/parentsvg/tick.svg",
+      "sha1": "c431cbde8ed9ed67cae259848f0daeea2bdb29d9"
+    },
+    {
+      "path": "src/images/svg/parentsvg/time.svg",
+      "sha1": "d27853959ef9be2627e8b8be559cf1d9ba57ecf2"
+    },
+    {
+      "path": "src/images/svg/parentsvg/todo.svg",
+      "sha1": "47e460b2eadae23ecca5630a20e05ca031c9737b"
+    },
+    {
+      "path": "src/images/svg/parentsvg/trash.svg",
+      "sha1": "1dbf77c759a60058d42547a39af1aca11f8a101f"
+    },
+    {
+      "path": "src/images/svg/parentsvg/truck.svg",
+      "sha1": "ba1f2d47829b92ab210e0beedc55e4984eb18a3d"
+    },
+    {
+      "path": "src/images/svg/parentsvg/twitter.svg",
+      "sha1": "ef02f2de4a3319902b17f21fea41d27f7b2170e7"
+    },
+    {
+      "path": "src/images/svg/parentsvg/whatsapp.svg",
+      "sha1": "a836194846b76e4bd9161cb98269f96eb532a5d7"
+    },
+    {
+      "path": "src/images/svg/parentsvg/wishList.svg",
+      "sha1": "8703cbd039af64e123ee0c0220fd0e3e8fa56326"
+    },
+    {
+      "path": "src/images/svg/pay.svg",
+      "sha1": "05ad0493edafa5c874aaffcbcfe4eaca5938646e"
+    },
+    {
+      "path": "src/images/svg/personal.svg",
+      "sha1": "15f37ffe0e7368088e7cb6464e7d5ad8298b8db6"
+    },
+    {
+      "path": "src/images/svg/plant.svg",
+      "sha1": "b55ca1b79685a137e0dbc86034e00cbdc506bb06"
+    },
+    {
+      "path": "src/images/svg/play.svg",
+      "sha1": "430f397613a42eddb882b54d64f09eb069623f14"
+    },
+    {
+      "path": "src/images/svg/plus.svg",
+      "sha1": "59cd26220dd7c294d590aa394701f6084a942705"
+    },
+    {
+      "path": "src/images/svg/prize.svg",
+      "sha1": "3a56cf77d152418b376b6e999e7ea512fb136f9c"
+    },
+    {
+      "path": "src/images/svg/prizeBg.svg",
+      "sha1": "32b40ed546d4285a9160cc4ad1e1fc1a6775b72a"
+    },
+    {
+      "path": "src/images/svg/productTeady.svg",
+      "sha1": "ece387573505b7bfe12078addf46f1e4fbfebbf6"
+    },
+    {
+      "path": "src/images/svg/profile.svg",
+      "sha1": "6e972ac92885171872ff5eecd6a61c01c0f50a85"
+    },
+    {
+      "path": "src/images/svg/remove.svg",
+      "sha1": "7024c24c6fe28f7c18cd35df450227d1de6d61ad"
+    },
+    {
+      "path": "src/images/svg/report.svg",
+      "sha1": "25415e68300bf6718eacc4d6aeee2d03c9a309a6"
+    },
+    {
+      "path": "src/images/svg/right.svg",
+      "sha1": "4d88abc0d225476c8ed57cbfc284a129af6946ed"
+    },
+    {
+      "path": "src/images/svg/screenTime.svg",
+      "sha1": "f755fbde3ca5a08f926685ce65419dcc4a7772c7"
+    },
+    {
+      "path": "src/images/svg/settings.svg",
+      "sha1": "29b0b95907e62747795a62b9dcfa873bedcdf904"
+    },
+    {
+      "path": "src/images/svg/shippingBG.svg",
+      "sha1": "3d29efc1195c69899ea390a92ff85aeb9e0d0a3c"
+    },
+    {
+      "path": "src/images/svg/shop.svg",
+      "sha1": "db27e83c1ac14e84fd1de042953a4aabf58f48e9"
+    },
+    {
+      "path": "src/images/svg/sound.svg",
+      "sha1": "a65333f42f84ab88e76d34136a2a95c80aa155b1"
+    },
+    {
+      "path": "src/images/svg/story.svg",
+      "sha1": "b938a1e20dc013a1f7c34c7a5c9a21881e9f3d34"
+    },
+    {
+      "path": "src/images/svg/teady.svg",
+      "sha1": "443ad072ffd204dc3449aeb26822d575827579f9"
+    },
+    {
+      "path": "src/images/svg/teadyPrize.svg",
+      "sha1": "c874b1f3ebdedae6b639ed0b33cf9b94fa52e93e"
+    },
+    {
+      "path": "src/images/svg/tick.svg",
+      "sha1": "c431cbde8ed9ed67cae259848f0daeea2bdb29d9"
+    },
+    {
+      "path": "src/images/svg/time.svg",
+      "sha1": "d27853959ef9be2627e8b8be559cf1d9ba57ecf2"
+    },
+    {
+      "path": "src/images/svg/todo.svg",
+      "sha1": "47e460b2eadae23ecca5630a20e05ca031c9737b"
+    },
+    {
+      "path": "src/images/svg/topArrow.svg",
+      "sha1": "06ebbae22b1b5e57525bcf41ff41dc53521981cb"
+    },
+    {
+      "path": "src/images/svg/trash.svg",
+      "sha1": "1dbf77c759a60058d42547a39af1aca11f8a101f"
+    },
+    {
+      "path": "src/images/svg/truck.svg",
+      "sha1": "ba1f2d47829b92ab210e0beedc55e4984eb18a3d"
+    },
+    {
+      "path": "src/images/svg/trunk.svg",
+      "sha1": "1de6034df28a13d9bc065d3c2b4b6f13b8e0f9fd"
+    },
+    {
+      "path": "src/images/svg/twitter.svg",
+      "sha1": "ef02f2de4a3319902b17f21fea41d27f7b2170e7"
+    },
+    {
+      "path": "src/images/svg/videoPlay.svg",
+      "sha1": "3d6197f3fb5f191a1b94202613eabc01b8d71816"
+    },
+    {
+      "path": "src/images/svg/vl1.svg",
+      "sha1": "7726aaebf61d6f4f2d20e45eb8ecf88e86635baa"
+    },
+    {
+      "path": "src/images/svg/vl2.svg",
+      "sha1": "f42772a00e724e7481eec08dad24cadbba024b31"
+    },
+    {
+      "path": "src/images/svg/vl3.svg",
+      "sha1": "26e6aeef1a58d6de871fe5243be8184fe6f20137"
+    },
+    {
+      "path": "src/images/svg/whatsapp.svg",
+      "sha1": "a836194846b76e4bd9161cb98269f96eb532a5d7"
+    },
+    {
+      "path": "src/images/svg/wishList.svg",
+      "sha1": "8703cbd039af64e123ee0c0220fd0e3e8fa56326"
+    }
+  ]
+}
