@@ -3,6 +3,6 @@ module.exports = {
     ios: {},
     android: {}, // grouped into "project"
   },
-  assets: ['./assets/fonts/', './src/images/svg'],
+  assets: ['./assets/fonts/'],
   // stays the same
 };
